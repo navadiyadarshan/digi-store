@@ -67,4 +67,8 @@
    - Integrated QR generation for each order
    - Delivery staff can scan and verify orders before marking as delivered
   
-## 🙏 Thank You For Visit & Sorry for note give source code
+## 🙏 Thank You for Visiting!
+
+**Sorry for not providing the source code.**  
+This project was built for learning purposes and personal portfolio use.  
+Feel free to connect for more insights or collaboration!

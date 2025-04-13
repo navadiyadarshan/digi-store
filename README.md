@@ -1,6 +1,6 @@
 # 🛒 Digi Store – E-Commerce Platform
 
-## 🔗 : (Digi store)[https://digi-x-store.netlify.app/]
+## 🔗 : [Digi store](https://digi-x-store.netlify.app/)
 - **Frontend (React.js)**:
   - Built using React with functional components
   - Responsive layout using simple CSS

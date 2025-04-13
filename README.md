@@ -66,3 +66,5 @@
 6. **QR Code Usage in Delivery System:**
    - Integrated QR generation for each order
    - Delivery staff can scan and verify orders before marking as delivered
+  
+## 🙏 Thank You For Visit & Sorry for note give source code
